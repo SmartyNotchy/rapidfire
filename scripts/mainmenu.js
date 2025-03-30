@@ -330,6 +330,25 @@ async function create_new_session() {
     CURRENT_SESSION.firstrender();
 }
 
+/* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ 
+/* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ 
+/* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ 
+
+const CREDITS_WRAPPER_DIV = document.getElementById("credits_wrapper");
+const CREDITS_CLOSE_BTN = document.getElementById("credits_close_btn");
+const CREDITS_CONFETTI_LINK = document.getElementById("credits_confetti_link");
+
+function reset_credits_div() {
+    CREDITS_CLOSE_BTN.onclick = async function() { await fadeout_credits_div(); };
+    CREDITS_CONFETTI_LINK.addEventListener('mouseenter', function() { toss_confetti_at_element(CREDITS_CONFETTI_LINK); });
+}
+
+function hide_credits_div() { CREDITS_WRAPPER_DIV.style.display = "none"; }
+function show_credits_div() { CREDITS_WRAPPER_DIV.style.display = "flex"; }
+
+async function fadein_credits_div() { return fade_in_element(CREDITS_WRAPPER_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_credits_div() { return fade_out_element(CREDITS_WRAPPER_DIV, "basic_fadeout", 200); }
+
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
@@ -358,6 +377,9 @@ function reset_mm_div() {
     };
     MENU_BTN_SETTINGS.onclick = async function() {
         await open_settings_div();
+    }
+    MENU_BTN_CONTRIBUTE.onclick = async function() {
+        await fadein_credits_div();
     }
 }
 
@@ -444,6 +466,9 @@ async function attempt_load_mm() {
     reset_mmns_div();
     hide_mmns_div();
 
+    reset_credits_div();
+    hide_credits_div();
+    
     reset_session_div();
     hide_session_div();
 

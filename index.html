@@ -120,13 +120,16 @@
           <button class="mainmenu_btn" id="mainmenu_btn_contribute" onclick='window.open("https://github.com/SmartyNotchy/Rapidfire/issues", "_blank").focus()'>
             <div class="mm_btn_content">
               <svg id="mm_svg_new" class="mm_svg"><use id="mm_svg_new_src" href="#svg_heart"></use></svg>
-              Contribute
+              Credits
             </div>
           </button>
         </div>
         
-        <p style="position: absolute; bottom: 25px; right: 10px; font-size: 14px; color: gray;">v1.0.8</p>
-        <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px; color: gray;">Coded with love by 
+        <p style="position: absolute; bottom: -5px; right: 10px; font-size: 14px; color: gray;">
+          v1.0.9
+          (<a style="color: gray !important;" href="https://github.com/SmartyNotchy/rapidfire/releases/latest" target="_blank" rel="noopener noreferrer">Patch Notes</a>)
+        </p>
+        <!--<p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px; color: gray;">Coded with love by 
           <a style="color: gray !important;" href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>
         </p>
         <p style="position: absolute; bottom: -5px; right: 10px; font-size: 14px; color: gray;">Logo by
@@ -136,7 +139,7 @@
           <a style="color: gray !important;" href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>
           and
           <a style="color: gray !important;" href="https://github.com/Akashsaran" target="_blank" rel="noopener noreferrer">@Akashsaran</a>
-        </p>
+        </p>-->
       </div>
 
       <div id="mainmenu_newsession_wrapper">
@@ -315,6 +318,56 @@
             </div>
             
             <p id="settings_reset" onclick="reset_settings()">Restore Default Settings</a>
+          </div>
+        </div>
+      </div>
+
+      <div id="credits_wrapper">
+        <div id="credits_div">
+          <p id="credits_title">Credits</p>
+          <hr style="margin-top: -10px;">
+
+          <div id="credits_content_div">
+            <p class="credits_role" style="margin-top: 0px !important;">Programming</p>
+            <p class="credits_desc">Coded with love by Pilliam Wark
+              (<a href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>)
+            </p>
+            
+            <p class="credits_role">Question Sets</p>
+            <p class="credits_desc">Sets for APUSH, AP Gov, ESS, Bio by Pilliam Wark
+              (<a href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>)
+            </p>
+            <p class="credits_desc">Sets for ESS, Bio, AP Calc BC by Akash Saran
+              (<a href="https://github.com/Akashsaran" target="_blank" rel="noopener noreferrer">@Akashsaran</a>)
+            </p>
+
+            <p class="credits_role">Graphic Design</p>
+            <p class="credits_desc">Logo by
+              <a href="https://github.com/starlaxiia" target="_blank" rel="noopener noreferrer">@starlaxiia</a>
+            </p>
+            <p class="credits_desc">Colors inspired by GradeMelon
+              (<a href="https://www.tinu.tech/creations" target="_blank" rel="noopener noreferrer">Tinu V</a>)
+            </p>
+            <p class="credits_desc">Confetti from
+              <a id="credits_confetti_link" href="https://confetti.js.org/" target="_blank" rel="noopener noreferrer">confetti.js</a>
+            </p>
+
+            <p class="credits_role">Special Thanks</p>
+            <p class="credits_desc">ESS Reference Notes from Nicole Sabova
+              (<a href="https://github.com/snekzz" target="_blank" rel="noopener noreferrer">@snekzz</a>)
+            </p>
+
+            <p class="credits_role">Want to Contribute?</p>
+            <p class="credits_desc">
+              <a href="https://github.com/SmartyNotchy/rapidfire/issues" target="_blank" rel="noopener noreferrer">Report a Bug</a> | 
+              <a href="https://github.com/SmartyNotchy/rapidfire/pulls" target="_blank" rel="noopener noreferrer">Submit a PR</a> | 
+              <a href="https://github.com/SmartyNotchy/rapidfire" target="_blank" rel="noopener noreferrer">Github Repo</a>
+            </p>
+            <p class="credits_desc">Thank you for helping with Rapidfire's development!</p>
+
+            <button id="credits_close_btn" class="session_corner_btn">
+              <svg id="credits_close_svg"><use href="#svg_close"></use></svg>
+            </button>
           </div>
         </div>
       </div>

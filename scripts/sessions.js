@@ -135,6 +135,8 @@ var ENTER_DOWN = false;
 const DOUBLE_TAP_THRESHOLD = 300;
 
 function enter_press_listener(event) {
+    if (CURRENT_SESSION == undefined) return;
+
     if (CURRENT_SESSION.settings.skipshortcut) {
         if (event.key == "Enter" && !ENTER_DOWN) {
             ENTER_DOWN = true;
@@ -278,7 +280,7 @@ class SAQQuestion {
 
                     if (this.status != QUESTION_STATUS.INCORRECT) {
                         this.status = QUESTION_STATUS.CORRECT;
-                        if (settings.confetti) toss_confetti_at_element(SAQ_INPUT_BTN, 10);
+                        if (settings.confetti) toss_confetti_at_element(SAQ_INPUT_BTN);
                     }
                 } else {
                     SAQ_INPUT_BOX.classList.add("incorrect");
@@ -456,7 +458,7 @@ class MCQQuestion {
                     
                     if (this.status != QUESTION_STATUS.INCORRECT) {
                         this.status = QUESTION_STATUS.CORRECT;
-                        if (settings.confetti) toss_confetti_at_element(MCQ_INPUT_BTN, 10);
+                        if (settings.confetti) toss_confetti_at_element(MCQ_INPUT_BTN);
                     }
                 } else {
                     this.buttons[this.selected].render(false, "red");

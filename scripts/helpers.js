@@ -99,7 +99,7 @@ async function fade_out_element(element, fadeClass, duration) {
 }
 
 // Toss up confetti around an HTML element using tsParticles
-function toss_confetti_at_element(element, zIndex) {
+function toss_confetti_at_element(element) {
     // Get the element's bounding box to find its position
     const rect = element.getBoundingClientRect();
     const x = (rect.left + rect.right) / 2;  // Calculate horizontal center
@@ -121,7 +121,6 @@ function toss_confetti_at_element(element, zIndex) {
         colors: ["#ea615e", "#f9aa69", "#fce17f", "#79e0c1", "#8cf1f9", "#80a1fd", "#e186f5", "#ffacce"],
         shapes: ["square"],
         scalar: 0.8,
-        zIndex: zIndex,
         disableForReducedMotion: true,
     });
 }
