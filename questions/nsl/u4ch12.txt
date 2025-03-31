@@ -1,0 +1,439 @@
+[PRESET] (Unit 4) Chapter 12 - Beliefs & Political Ideology
+-------------------------------------------
+[T] NSL 4.1 - American Attitudes About Government & Politics
+-------------------------------------------
+[SAQ] Citizens who believe in strict thresholds for welfare qualification and longer prison sentences are usually known as ________________.
+[A] Conservative
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Prioritize law and order at the expense of some personal liberties*
+[CA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Belief in Traditions & Institutions*
+[CA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Small Government with Fewer Services*
+[CA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Harsh Punishments for Lawbreakers*
+[CA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*High Thresholds for Welfare Qualification*
+[CA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[SAQ] Citizens who believe in low thresholds for welfare qualification and lenient prison sentences are usually known as ________________.
+[A] Liberal
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*More Likely to Experiment with Policy*
+[WA] Conservatives
+[CA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Protecting the Rights of the Accused*
+[WA] Conservatives
+[CA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Higher Taxes for More Government Services*
+[WA] Conservatives
+[CA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*Large Government with More Services*
+[WA] Conservatives
+[CA] Liberals
+[END]
+-------------------------------------------
+[MCQ] Choose the ideology that matches the following statement:\n\n*More Receptive to Change*
+[WA] Conservatives
+[CA] Liberals
+[END]
+-------------------------------------------
+[SAQ] People in the US embrace common views that form the country's ___________ ___________ - the set of attitudes that shape political behavior.
+[A] Political Culture
+[END]
+-------------------------------------------
+[SAQ] ___________ is a belief in the fundamental worth & importance of the individual.
+[A] Individualism
+[END]
+-------------------------------------------
+[SAQ] ___________ is the value that encourages people to pursue their own best interest.
+[A] Individualism
+[END]
+-------------------------------------------
+[SAQ] This type of individualism places the individual's interest above the group's interest.
+[A] Self-Centered
+[A] Self-Centered Individualism
+[END]
+-------------------------------------------
+[SAQ] This type of individualism sacrifices some individual freedom for the greater good.
+[A] Enlightened
+[A] Enlightened Self-Interest
+[END]
+-------------------------------------------
+[MCQ] Why can individualism cause tension in American societal values?
+[CA] Society would be fractured if every person only sought their best interest
+[WA] Personal liberties require large government investments to protect
+[WA] Congress would not be able to reach any majority decisions on legislation
+[WA] The US would not function as a weak union of 50 individual states
+[END]
+-------------------------------------------
+[MCQ] The DoI's "all men are created equal" line was created to suggest practical equality for all American citizens.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The federal government has not historically infringed on equality of opportunity; this was done by the states.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Equality of opportunity is a widely shared value amongst American citizens, regardless of ideology.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] __________ ___ ___________ is the belief that every citizen should have a fair chance to reach a higher status based on their skills.
+[A] Equality of Opportunity
+[END]
+-------------------------------------------
+[SAQ] A _____________ approach to the economy emphasizes little government intervention in the dealings businesses and merchants.
+[A] Laissez-Faire
+[END]
+-------------------------------------------
+[SAQ] People who adhere to the ideas of laissez-faire follow a _______________ approach.
+[A] Free Enterprise
+[END]
+-------------------------------------------
+[MCQ] Small business owners and corporate leaders tend to vote with the _____________ party.
+[CA] Republican
+[WA] Democratic
+[END]
+-------------------------------------------
+[MCQ] Labor union leaders and hourly workers tend to vote with the _____________ party.
+[WA] Republican
+[CA] Democratic
+[END]
+-------------------------------------------
+[SAQ] _____________ is the principle that government laws apply equally to all members of society, even those who make them.
+[A] Rule of Law
+[END]
+-------------------------------------------
+[SAQ] This principle of government ensures that a presidential election occurs every four years in the US and that power is transferred smoothly.
+[A] Rule of Law
+[END]
+-------------------------------------------
+[MCQ] Under the rule of law, small transgressions (i.e. speeding in a school zone by 5 mph) can still be let go without punishment.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Citizens desire _______ __________- a government kept under control by law, checks and balances, and the separation of power.
+[A] Limited Government
+[END]
+-------------------------------------------
+[SAQ] ___________ _________ is key to civil liberties - it comes into issue when, for example, the right of the government to search your home is questioned.
+[A] Limited Government
+[END]
+-------------------------------------------
+[MCQ] Which is NOT a core value that defines US political culture and attitudes?
+[CA] Economic Equality
+[WA] Individualism
+[WA] Equality of Opportunity
+[WA] Free Enterprise
+[WA] Rule of Law
+[WA] Limited Government
+[END]
+-------------------------------------------
+[T] NSL 4.2 - Political Socialization
+-------------------------------------------
+[SAQ] The process by which you develop political beliefs is called _________ __________.
+[A] Political Socialization
+[END]
+-------------------------------------------
+[MCQ] When does political socialization begin?
+[CA] When you are old enough to start forming opinions
+[WA] When you are born
+[WA] After you graduate elementary school
+[WA] When you vote in your first election
+[END]
+-------------------------------------------
+[MCQ] When does political socialization end?
+[CA] Never
+[WA] When an election winner is decided
+[WA] Once you graduate college
+[WA] After you start working at a job
+[END]
+-------------------------------------------
+[SAQ] __________ has long been regarded as the biggest influence on political socialization.
+[A] Family
+[END]
+-------------------------------------------
+[SAQ] Second to family, the ______ is playing a larger and larger role in influencing political socialization.
+[A] Media
+[A] Social Media
+[A] Mass Media
+[END]
+-------------------------------------------
+[MCQ] There is evidence that the K-12 experience is more likely to make a student liberal.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] There is evidence that going to graduate school for advanced degrees is more likely to make a person liberal.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Peer pressure can help activate civic action or participation.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] There is a clear correlation between whether a person attends church and their political ideology.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] There is a clear correlation between whether a person attends church and their level of participation in politics.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The Girl/Boy Scouts or volunteers at a hospital are examples of _____ ____________.
+[A] Civic Institutions
+[END]
+-------------------------------------------
+[SAQ] ______ ____________ make up civil society - the nongovernmental, non-business, and voluntary sector of social life.
+[A] Civic Institutions
+[END]
+-------------------------------------------
+[MCQ] Civic Institutions bring only like-minded people today, reinforcing already held beliefs.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Geographic location plays a key role in people's political ideologies.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] For a century after the Civil War, the most identifiable Democratic region was the:
+[CA] South
+[WA] North
+[WA] East
+[WA] West
+[END]
+-------------------------------------------
+[MCQ] Currently (2024), liberal Democrats dominate in this geographic region.
+[CA] Northeast
+[WA] Midwest
+[WA] South
+[WA] West
+[END]
+-------------------------------------------
+[MCQ] Currently (2024), conservative Christian values dominate in this geographic region.
+[WA] Northeast
+[WA] Midwest
+[CA] South
+[WA] West
+[END]
+-------------------------------------------
+[SAQ] _____________ is the process of an ever-expanding and increasingly interactive world economy.
+[A] Globalization
+[END]
+-------------------------------------------
+[MCQ] The impacts of globalization go beyond the economy.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] The US is the dominant economic power affecting globalization.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] In general, US influence in the world is seen as promoting the principles of ________.
+[A] Democracy
+[END]
+-------------------------------------------
+[MCQ] The US is also exposed to foreign values through globalization.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Cultures that are called __________ often put the needs of the community over individual needs.
+[A] Collectivistic
+[END]
+-------------------------------------------
+[SAQ] The culture of the US is generally called _____________ as it regards individual needs highly (compared to the needs of the community).
+[A] Individualistic
+[END]
+-------------------------------------------
+[T] NSL 4.3 - Changes in Ideology
+-------------------------------------------
+[MCQ] Democrats tend to win a majority of the ______ vote.
+[WA] Older
+[CA] Younger
+[END]
+-------------------------------------------
+[MCQ] Republicans tend to win a majority of the _______ vote.
+[CA] Older
+[WA] Younger
+[END]
+-------------------------------------------
+[MCQ] Most people forge their political attitudes between these ages:
+[CA] 14 to 24
+[WA] 8 to 14
+[WA] 24 to 40
+[WA] 40+
+[END]
+-------------------------------------------
+[SAQ] This generation consists of citizens born around the time of the Great Depression to WWII.
+[A] Silent Generation
+[END]
+-------------------------------------------
+[SAQ] This generation consists of citizens born during an era of economic prosperity after WWII.
+[A] Baby Boomers
+[A] Boomers
+[END]
+-------------------------------------------
+[SAQ] This generation consists of citizens born from roughly the 1960s to 1980s.
+[A] X
+[A] GenX
+[A] Gen X
+[A] Generation X
+[END]
+-------------------------------------------
+[SAQ] This generation consists of citizens who came of voting age at or after the new millennium.
+[A] Millennials
+[END]
+-------------------------------------------
+[SAQ] This generation consists of citizens born between 1995 and 2010.
+[A] Z
+[A] GenZ
+[A] Gen Z
+[A] Generation Z
+[END]
+-------------------------------------------
+[SAQ] Generation Z tends to share similar outlooks to this other generation.
+[A] Millennials
+[END]
+-------------------------------------------
+[SAQ] This generation is noticeably more liberal than previous generations, and is projected to remain and become more liberal as the generation ages.
+[A] Millennials
+[END]
+-------------------------------------------
+[MCQ] Millennials are (more/less) likely to promote cooperation over the use of force in foreign policy compared with other generations.
+[CA] More
+[WA] Less
+[END]
+-------------------------------------------
+[MCQ] Millennials generally believe in a (higher/lower) degree of government regulation of the economy.
+[CA] Higher
+[WA] Lower
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the voting tendencies of the Millennial generation?
+[CA] Usually Democrat
+[WA] Toss-Up
+[WA] Usually Republican
+[END]
+-------------------------------------------
+[MCQ] Members of the Silent Generation are generally (more/less) likely to support American involvement in foreign wars against communism.
+[CA] More
+[WA] Less
+[END]
+-------------------------------------------
+[MCQ] Members of the Silent Generation generally (support/oppose) racial equality and counterculture movement ideals.
+[CA] Support
+[WA] Oppose
+[END]
+-------------------------------------------
+[MCQ] Seniors are the most reliable voters.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] __________ _______ include the variety of physical, social, and psychological changes that people go through as they age.
+[A] Lifecycle Effects
+[END]
+-------------------------------------------
+[SAQ] One way _________ ______ affect political socialization is by shifting focus to issues that are important at different age levels.
+[A] Lifecycle Effects
+[END]
+-------------------------------------------
+[T] NSL 4.4 - Influence of Political Events on Ideology
+-------------------------------------------
+[SAQ] People who lived through the ______ _____________ often have a favorable attitude towards government involvement in social life, supporting programs like Social Security.
+[A] Great Depression
+[END]
+-------------------------------------------
+[MCQ] People who lived through the Great Depression and WWII were generally (more/less) forgiving of the government in the aftermath of the Vietnam War.
+[CA] More
+[WA] Less
+[END]
+-------------------------------------------
+[SAQ] The Silent Generation formed the massive ____ _____ __________ of Americans who voted for FDR and the following Democrats.
+[A] New Deal Coalition
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the political shift of Boomers as they aged?
+[CA] Democratic -> Republican
+[WA] Republican -> Democratic
+[WA] Remained Democratic
+[WA] Remained Republican
+[END]
+-------------------------------------------
+[MCQ] The Democratic Party has historically held consistently liberal social views.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Name an important event in Millennials' formative years that affected their political socialization.
+[A] 9/11
+[A] 9/11 Attacks
+[A] September 11
+[A] September 11th Attacks
+[A] Afghanistan
+[A] Iraq
+[A] Iraq Invasion
+[A] Middle East Involvement
+[END]
+-------------------------------------------
+[SAQ] The _____ _________, led by the US and NATO after 9/11, likely had a large influence on the political socialization of Millennials.
+[A] Iraq Invasion
+[END]
+-------------------------------------------
+[MCQ] Millennials are (more/less) likely to support US involvement in future overseas conflicts.
+[CA] Less
+[WA] More
+[END]
+-------------------------------------------
+[SAQ] Millennials will likely compare future conflicts to this event, and subsequently be more reluctant to intervene in foreign affairs with force.
+[A] Iraq Invasion
+[A] Iraq War
+[A] War in Iraq
+[A] Iraq
+[END]
+-------------------------------------------
+[SAQ] This event caused more Millennials to accept government intervention in a failing economy compared to other generations.
+[A] Great Recession
+[END]
+-------------------------------------------
+[MCQ] Pessimistic views formed during a sudden economic downturn tend to be long-lasting.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
