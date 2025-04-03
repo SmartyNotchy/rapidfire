@@ -507,11 +507,11 @@
 ------------------------------------------- 
 [T] Differential Equations
 ------------------------------------------- 
-[MCQ] The differential equation for exponential growth or decay is ____.  
-[CA] dy/dt = ky  
-[WA] dy/dt = k / y  
-[WA] dy/dt = kx  
-[WA] dy/dt = ky²  
+[MCQ] The differential equation for exponential growth or decay is ____.
+[CA] $\frac{dy}{dt} = ky$
+[WA] $\frac{dy}{dt} = \frac{k}{y}$
+[WA] $\frac{dy}{dt} = kx$
+[WA] $\frac{dy}{dt} = ky^{2}$
 [END]  
 -------------------------------------------  
 [MCQ] The general solution to the differential equation dy/dt = ky is ____.  
