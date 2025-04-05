@@ -117,7 +117,7 @@
 [END]  
 -------------------------------------------  
 [MCQ] What is the alternative definition of the derivative?  
-[CA] $f'(x) = \lim_{x \to a} {\frac{f(x) - f(a)}{x - a}}4
+[CA] $f'(x) = \lim_{x \to a} {\frac{f(x) - f(a)}{x - a}}$
 [WA] $f'(x) = \lim_{x \to a} {\frac{f(x) - f(a)}{x}}$
 [WA] $f'(x) = \lim_{x \to a} {\frac{f(x) + f(a)}{a}}$
 [WA] $f'(x) = \lim_{x \to \infty} {\frac{f(x) - f(a)}{x - a}}$
