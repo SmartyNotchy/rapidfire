@@ -1,0 +1,337 @@
+[PRESET] (Unit 4) Chapter 14 - Political Ideologies & Public Policy
+-------------------------------------------
+[T] NSL 4.7 - Ideologies of Political Parties
+-------------------------------------------
+[SAQ] A(n) ________ is a comprehensive and mutually consistent set of ideas.
+[A] Ideology
+[END]
+-------------------------------------------
+[SAQ] _______ _______ are concerns or policies that are viewed in the same way by people with a variety of ideologies.
+[A] Valence Issues
+[END]
+-------------------------------------------
+[SAQ] ______ ______ are concerns or policies that sharply divide the public.
+[A] Wedge Issues
+[END]
+-------------------------------------------
+[MCQ] Wedge issues leave little room for compromise on competing ideas.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Highly divisive issues tend to hold high _______, or importance, towards individuals or groups.
+[A] Saliency
+[END]
+-------------------------------------------
+[SAQ] Most Americans are ________ and never fall fully into a "left" or "right" ideological camp.
+[A] Moderate
+[END]
+-------------------------------------------
+[MCQ] Most Americans have a moderate ideology.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] "Liberal" groups and parties have consistently been receptive to change throughout US history.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Since the 1930s, the term "______" has usually meant being open to allowing the government to act flexibly and to expand.
+[A] Liberal
+[END]
+-------------------------------------------
+[SAQ] The term "_______" generally describes those who believe in following tradition & reverence for authority.
+[A] Conservative
+[END]
+-------------------------------------------
+[SAQ] Voters who identify as _________ generally oppose government intervention or regulation, and have a high regard for civil liberties.
+[A] Libertarian
+[END]
+-------------------------------------------
+[MCQ] Libertarians tend to be _________ on economic issues and ______ on moral/social issues.
+[CA] Conservative, Liberal
+[WA] Liberal, Conservative
+[WA] Liberal, Liberal
+[WA] Conservative, Conservative
+[END]
+-------------------------------------------
+[MCQ] Most libertarians are pro-life on abortion and do not support equality regarding LGBTQ+ people.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Generally, voters who identify as _________ attend Protestant church and follow fundamental Christian ideals.
+[A] Populist
+[END]
+-------------------------------------------
+[MCQ] Populists tend to be found in the South and Midwest, rather than along the coasts.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Populists tend to come from working-class families.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Modern voters who identify as _________ believe in workers' rights and higher taxes for the wealthy, and push for drastic systemic changes.
+[A] Progressive
+[END]
+-------------------------------------------
+[SAQ] The best way to determine a party's primary ideology is to read its _______.
+[A] Platform
+[A] Party Platform
+[END]
+-------------------------------------------
+[T] NSL 4.8 - Ideology and Policy Making
+-------------------------------------------
+[SAQ] Democratic government is reflected through __________ policy making, where government carries out the will of the majority.
+[A] Majoritarian
+[END]
+-------------------------------------------
+[SAQ] Interest groups represent a _______ approach to policymaking.
+[A] Pluralist
+[END]
+-------------------------------------------
+[SAQ] When creating policy, legislators and bureaucrats develop and reshape an ______ - a list of potential policy ideas or plans to improve society.
+[A] Agenda
+[END]
+-------------------------------------------
+[MCQ] Ideally, all levels of government should recognize a policy issue and try to solve it.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Changes in law rarely come incrementally - instead, most policies institute major overhauls to their respective areas.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Each new policy requires the executive branch to enforce it.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Once passed, challenges to new policies often arise quickly.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[T] NSL 4.9 - Ideology and Economic Policy
+-------------------------------------------
+[SAQ] Besides partisan identification, the greatest determiner on Election Day is a voter's view of the _______.
+[A] Economy
+[END]
+-------------------------------------------
+[MCQ] (Liberals/Conservatives) generally follow the theory of Keynesian economics.
+[CA] Liberals
+[WA] Conservatives
+[END]
+-------------------------------------------
+[MCQ] (Liberals/Conservatives) generally follow the theory of "supply-side" economics.
+[CA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[SAQ] _______ ______ is the part of economic policy that is concerned with government spending & taxation.
+[A] Fiscal Policy
+[END]
+-------------------------------------------
+[SAQ] Under ________________ economics, the government should create the right level of demand through controlling government spending and taxation.
+[A] Keynesian
+[END]
+-------------------------------------------
+[SAQ] The __________ effect refers to the mechanism by which increases in spending result in economic growth that outweighs the amount of spending.
+[A] Multiplier
+[END]
+-------------------------------------------
+[SAQ] Under ________________ economics, the government should leave as much of the money supply as possible to the people.
+[A] Supply-Side
+[END]
+-------------------------------------------
+[SAQ] Supply-side economics goes hand-in-hand with a _____________ approach to the market, which emphasizes minimal government regulation.
+[A] Laissez-Faire
+[END]
+-------------------------------------------
+[MCQ] Which of the following groups favors the least government regulations on the economy?
+[CA] Libertarians
+[WA] Conservatives
+[WA] Liberals
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ was ratified to allow Congress to tax people's incomes.
+[A] XVI
+[A] 16
+[A] Sixteen
+[END]
+-------------------------------------------
+[SAQ] This federal agency is responsible for overseeing the tax collection process.
+[A] IRS
+[A] Internal Revenue Service
+[END]
+-------------------------------------------
+[SAQ] Today, the largest share of federal revenue comes from ______ ____.
+[A] Income Taxes
+[END]
+-------------------------------------------
+[SAQ] The US's income tax is a __________ ____, which means that one's tax rate increases as their income increases.
+[A] Progressive Tax
+[END]
+-------------------------------------------
+[MCQ] Taxing power can also be used as a way to draft social policy.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Some people argue for a ____ ___, which taxes citizens at the same rate regardless of income.
+[A] Flat Tax
+[END]
+-------------------------------------------
+[MCQ] Which person/group initiates the annual budget?
+[CA] The President
+[WA] House of Representatives
+[WA] Senate
+[WA] Department of the Treasury
+[END]
+-------------------------------------------
+[MCQ] Balancing the budget is a nearly impossible task.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] _________ ______ is the part of economic policy that deals with how the government manages the supply and demand of its currency.
+[A] Monetary Policy
+[END]
+-------------------------------------------
+[SAQ] When there are too many dollars in circulation, _______ - rising prices and devaluation of the dollar, occurs.
+[A] Inflation
+[END]
+-------------------------------------------
+[SAQ] The _________ _________ ______ is the agency that sets monetary policy by buying and selling bonds, regulating reserve requirements, and setting interest rates.
+[A] FRB
+[A] Federal Reserve Board
+[A] The Fed
+[END]
+-------------------------------------------
+[MCQ] The Federal Reserve Board deals with ________ policy.
+[CA] Monetary
+[WA] Fiscal
+[END]
+-------------------------------------------
+[SAQ] The FRB sets the ________ _____, the interest rate at which government loans actual dollars to commercial banks.
+[A] Discount Rate
+[END]
+-------------------------------------------
+[MCQ] (Raising/Lowering) the discount rate is done to slow inflation.
+[CA] Raising
+[WA] Lowering
+[END]
+-------------------------------------------
+[SAQ] The ________ _________ is the amount of money commercial banks must keep in their vaults.
+[A] Reserve Requirement
+[END]
+-------------------------------------------
+[MCQ] (Raising/Lowering) the reserve requirement leads to an increase in loaning from banks.
+[CA] Lowering
+[WA] Raising
+[END]
+-------------------------------------------
+[SAQ] The Fed determines the rates for government _____, which act as "IOUs" for taking in and paying back revenue.
+[A] Bonds
+[A] Securities
+[END]
+-------------------------------------------
+[MCQ] Which of the following would be an appropriate action by the FRB in order to *stimulate* the economy?
+[CA] Buy Back Bonds
+[WA] Sell More Bonds
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a way that the FRB can control the economy?
+[CA] Drafting the National Budget
+[WA] Selling/Buying Back Bonds
+[WA] Setting the Discount Rate
+[WA] Setting the Reserve Requirement
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the nomination structure of the Federal Reserve Board?
+[CA] Staggered 14-year terms
+[WA] Concurrent 14-year terms
+[WA] Concurrent 4-year terms
+[WA] Staggered 6-year terms
+[END]
+-------------------------------------------
+[SAQ] ___________ refers to the process of an ever-expanding and increasingly interactive world economy.
+[A] Globalization
+[END]
+-------------------------------------------
+[SAQ] A nation that exports more than it imports has a favorable _____ _______.
+[A] Trade Balance
+[END]
+-------------------------------------------
+[MCQ] A nation with a favorable trade balance imports (more/less) than it exports.
+[CA] Less
+[WA] More
+[END]
+-------------------------------------------
+[SAQ] A nation that imports more than it exports has a _____ _________.
+[A] Trade Deficit
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the ability of Congress to tax imports & exports?
+[CA] *Can* Tax Imports, *Cannot* Tax Exports
+[WA] *Can* Tax Imports, *Can* Tax Exports
+[WA] *Cannot* Tax Imports, *Can* Tax Exports
+[WA] *Cannot* Tax Imports, *Cannot* Tax Exports
+[END]
+-------------------------------------------
+[SAQ] The ____ lifted trade barriers among the US, Canada, and Mexico.
+[A] NAFTA
+[END]
+-------------------------------------------
+[MCQ] Businesses and economic conservatives generally favor free trade (i.e. NAFTA).
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[T] NSL 4.10 - Ideology and Social Policy
+-------------------------------------------
+[SAQ] Many people believe the government should provide _______ ________ - support for disadvantaged people to meet their basic needs.
+[A] Social Welfare
+[END]
+-------------------------------------------
+[SAQ] ____________ are government services Congress has promised by law to citizens, such as Social Security.
+[A] Entitlements
+[END]
+-------------------------------------------
+[SAQ] Entitlements are part of Congress's _________ __________, the part of the national budget that must be paid by law.
+[A] Mandatory Spending
+[END]
+-------------------------------------------
+[SAQ] The largest entitlement program is _________ ________.
+[A] Social Security
+[END]
+-------------------------------------------
+[SAQ] Congress passed the __________ ________ ____ during the Great Depression to create a federal safety net for the elderly and unemployed.
+[A] Social Security Act
+[END]
+-------------------------------------------
+[SAQ] ________ _______ is often called the "third rail" of politics, as many politicians avoid changing the spending or rules on it to avoid backlash.
+[A] Social Security
+[END]
+-------------------------------------------
+[SAQ] ________ is a government-run health insurance program for citizens over 65 years old.
+[A] Medicare
+[END]
+-------------------------------------------
+[SAQ] ________ is a health care program for the impoverished who cannot afford necessary medical expenses.
+[A] Medicaid
+[END]
+-------------------------------------------
+[SAQ] Health care costs are largely covered by the federal government through the __________ ____ ____ passed in 2010.
+[A] Affordable Care Act
+[A] Patient Protection and Affordable Care Act
+[A] Obamacare
+[A] ACA
+[END]
+-------------------------------------------
