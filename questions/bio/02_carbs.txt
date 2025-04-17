@@ -89,7 +89,7 @@
 [A] Monosaccharides
 [END]
 -------------------------------------------
-[SAQ] What is the formula of glucose?\n*(Answer Format: H2O, Na(1+))*
+[SAQ] What is the formula of glucose?<br>*(Answer Format: H2O, Na(1+))*
 [EXA] C6H12O6
 [END]
 -------------------------------------------

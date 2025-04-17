@@ -61,6 +61,10 @@ a {
     background: #555;
 } 
 
+canvas {
+    z-index: 42 !important;
+}
+
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -75,7 +79,7 @@ a {
     left: 0px;
     top: 0px;
 
-    z-index: 2000;
+    z-index: 1000;
 
     display: flex;
 
@@ -397,7 +401,7 @@ a {
     width: 100vw;
     border: none;
 
-    z-index: 1002;
+    z-index: 10;
 }
 
 #mainmenu_newsession_div {
@@ -725,7 +729,7 @@ a {
     width: 100vw;
     border: none;
 
-    z-index: 1002;
+    z-index: 50;
 }
 
 #settings_div {
@@ -942,6 +946,134 @@ input:checked + .settings_toggle_slider:before {
     color: white;
 
     text-decoration: underline;
+}
+
+/* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ 
+/* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ 
+/* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ /* CREDITS WINDOW */ 
+
+#credits_wrapper {
+    background-color: #00000044;
+
+    position: fixed;
+    /* display: flex; */
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    width: 100vw;
+    border: none;
+
+    z-index: 10;
+}
+
+#credits_div {
+    width: 60vw;
+    height: 80vh;
+
+    background-color: #111827;
+
+    border: gray 1px solid;
+    border-radius: 20px;
+
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    position: relative;
+}
+
+#credits_title {
+    font-size: 30px;
+}
+
+#credits_close_btn {
+    width: 50px;
+    height: 50px;
+
+    border: none;
+    border-radius: 10px;
+    
+    background-color: #111827;
+
+    transition: color 0.2s, background-color 0.2s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 15px;
+
+    color: white;
+
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#credits_close_btn:hover {
+    background-color: #373e4b;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#credits_close_btn:disabled {
+    background-color: #242B39;
+    cursor: not-allowed;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#credits_close_svg {
+    color: white; 
+
+    width: 50px;
+    height: 50px;
+
+    transition: color 0.2s;
+}
+
+#credits_close_btn:active #credits_close_svg {
+    color: #ffffffaa;
+
+    transition: color 0.2s;
+}
+
+#credits_close_btn:disabled #credits_close_svg {
+    color: rgba(255, 255, 255, 0.3);
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#credits_content_div {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    height: calc(80vh - 180px);
+
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.credits_role {
+    color: white;
+    font-size: 20px;
+    
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.credits_desc {
+    color: gray;
+    font-size: 16px;
+
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */

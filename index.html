@@ -21,11 +21,16 @@
     <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-  -->
+    -->
     
     <link href="https://fonts.googleapis.com/css?family=Inclusive+Sans" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style/style_desktop.css" />
     <link rel="icon" href="images/global/favicon_light.svg" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css" integrity="sha384-zh0CIslj+VczCZtlzBcjt5ppRcsAmDnRem7ESsYwWwg3m/OaJ2l4x7YBZl9Kxxib" crossorigin="anonymous">
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.js" integrity="sha384-Rma6DA2IPUwhNxmrB/7S3Tno0YY7sFu9WSYMCuulLhIqYSGZ2gKCJWIqhBWqMQfh" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"></script>
   </head>
   <body>
     <main>
@@ -34,7 +39,7 @@
       <div id="templates" style="display: none;">
         <svg id="svg_x" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#c10000"><path stroke-linecap="round" stroke-linejoin="round" d="m9.75 9.75 4.5 4.5m0-4.5-4.5 4.5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
         <svg id="svg_xmore" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M8.625 12a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
-        <svg id="svg_mincirc" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor""><path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
+        <svg id="svg_mincirc" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
         <svg id="svg_check" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#33cc33"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
         <svg id="svg_next" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m12.75 15 3-3m0 0-3-3m3 3h-7.5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
         <svg id="svg_submit" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M6 12 3.269 3.125A59.769 59.769 0 0 1 21.485 12 59.768 59.768 0 0 1 3.27 20.875L5.999 12Zm0 0h7.5" /></svg>
@@ -120,13 +125,16 @@
           <button class="mainmenu_btn" id="mainmenu_btn_contribute" onclick='window.open("https://github.com/SmartyNotchy/Rapidfire/issues", "_blank").focus()'>
             <div class="mm_btn_content">
               <svg id="mm_svg_new" class="mm_svg"><use id="mm_svg_new_src" href="#svg_heart"></use></svg>
-              Contribute
+              Credits
             </div>
           </button>
         </div>
         
-        <p style="position: absolute; bottom: 25px; right: 10px; font-size: 14px; color: gray;">v1.0.8</p>
-        <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px; color: gray;">Coded with love by 
+        <p style="position: absolute; bottom: -5px; right: 10px; font-size: 14px; color: gray;">
+          v1.1.0
+          (<a style="color: gray !important;" href="https://github.com/SmartyNotchy/rapidfire/releases/latest" target="_blank" rel="noopener noreferrer">Patch Notes</a>)
+        </p>
+        <!--<p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px; color: gray;">Coded with love by 
           <a style="color: gray !important;" href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>
         </p>
         <p style="position: absolute; bottom: -5px; right: 10px; font-size: 14px; color: gray;">Logo by
@@ -136,7 +144,7 @@
           <a style="color: gray !important;" href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>
           and
           <a style="color: gray !important;" href="https://github.com/Akashsaran" target="_blank" rel="noopener noreferrer">@Akashsaran</a>
-        </p>
+        </p>-->
       </div>
 
       <div id="mainmenu_newsession_wrapper">
@@ -299,6 +307,23 @@
                 </label>
               </div>
             </div>
+
+            <div id="settings_render_latex" class="settings_op">
+              <div class="settings_op_info">
+                <p class="settings_op_title">Render LaTeX</p>
+                <p class="settings_op_subtitle">
+                  Toggle rendering for LaTeX expressions.
+                  Note that if this setting is turned off, question sets that depend on it (i.e. AP Calc BC) will be effectively unreadable (unless you can read raw LaTeX!)
+                </p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_renderlatex">
+                  <span class="settings_toggle_slider"></span>
+                </label>
+              </div>
+            </div>
             
             <div id="settings_checker_confetti" class="settings_op">
               <div class="settings_op_info">
@@ -315,6 +340,62 @@
             </div>
             
             <p id="settings_reset" onclick="reset_settings()">Restore Default Settings</a>
+          </div>
+        </div>
+      </div>
+
+      <div id="credits_wrapper">
+        <div id="credits_div">
+          <p id="credits_title">Credits</p>
+          <hr style="margin-top: -10px;">
+
+          <div id="credits_content_div">
+            <p class="credits_role" style="margin-top: 0px !important;">Programming</p>
+            <p class="credits_desc">Coded with love by Pilliam Wark
+              (<a href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>)
+            </p>
+            
+            <p class="credits_role">Question Sets</p>
+            <p class="credits_desc">Sets for APUSH, AP Gov, ESS, Bio by Pilliam Wark
+              (<a href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a>)
+            </p>
+            <p class="credits_desc">Sets for ESS, Bio, AP Calc BC by Akash Saran
+              (<a href="https://github.com/Akashsaran" target="_blank" rel="noopener noreferrer">@Akashsaran</a>)
+            </p>
+
+            <p class="credits_role">Graphic Design</p>
+            <p class="credits_desc">Logo by
+              <a href="https://github.com/starlaxiia" target="_blank" rel="noopener noreferrer">@starlaxiia</a>
+            </p>
+            <p class="credits_desc">Colors inspired by GradeMelon
+              (<a href="https://www.tinu.tech/creations" target="_blank" rel="noopener noreferrer">Tinu V</a>)
+            </p>
+            <p class="credits_desc">Confetti from
+              <a id="credits_confetti_link" href="https://confetti.js.org/" target="_blank" rel="noopener noreferrer">confetti.js</a>
+            </p>
+
+            <p class="credits_role">Special Thanks</p>
+            <p class="credits_desc">ESS Reference Notes from Nicole Sabova
+              (<a href="https://github.com/snekzz" target="_blank" rel="noopener noreferrer">@snekzz</a>)
+            </p>
+            <p class="credits_desc">LaTeX Rendering by
+              <a href="https://github.com/00magikarp" target="_blank" rel="noopener noreferrer">@00magikarp</a>
+            </p>
+            <p class="credits_desc">Name Inspiration from Cailyn Farrell
+              (<a href="https://www.instagram.com/hiicailyn/" target="_blank" rel="noopener noreferrer">@hiicailyn</a>)
+            </p>
+
+            <p class="credits_role">Want to Contribute?</p>
+            <p class="credits_desc">
+              <a href="https://github.com/SmartyNotchy/rapidfire/issues" target="_blank" rel="noopener noreferrer">Report a Bug</a> | 
+              <a href="https://github.com/SmartyNotchy/rapidfire/pulls" target="_blank" rel="noopener noreferrer">Submit a PR</a> | 
+              <a href="https://github.com/SmartyNotchy/rapidfire" target="_blank" rel="noopener noreferrer">Github Repo</a>
+            </p>
+            <p class="credits_desc">Thank you for helping with Rapidfire's development!</p>
+
+            <button id="credits_close_btn" class="session_corner_btn">
+              <svg id="credits_close_svg"><use href="#svg_close"></use></svg>
+            </button>
           </div>
         </div>
       </div>

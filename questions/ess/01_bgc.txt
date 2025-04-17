@@ -51,15 +51,15 @@
 [A] Negative Feedback Loop
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **carbonic acid**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **carbonic acid**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] H2CO3
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **bicarbonate**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **bicarbonate**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] HCO3(1-)
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **carbonate**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **carbonate**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] CO3(2-)
 [END]
 -------------------------------------------
@@ -173,7 +173,7 @@
 [WA] More Decomposers
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **phosphate**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **phosphate**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] PO4(3-)
 [END]
 -------------------------------------------
@@ -193,7 +193,7 @@
 [WA] Ionic
 [END]
 -------------------------------------------
-[SAQ] Atmospheric N is all in the form of ___.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Atmospheric N is all in the form of ___.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] N2
 [END]
 -------------------------------------------
@@ -238,15 +238,15 @@
 [WA] Legume roots help retain phosphates in the soil & reduce runoff
 [END]
 -------------------------------------------
-[SAQ] When NH3 & H2O react in the Nitrogen Cycle, what is the product?\n*(Answer Format: H2O, Na(1+))*
+[SAQ] When NH3 & H2O react in the Nitrogen Cycle, what is the product?<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NH4(1+)
 [END]
 -------------------------------------------
-[SAQ] When aerobic (nitrifying) bacteria first oxidize NH4(1+), the result is:\n*(Answer Format: H2O, Na(1+))*
+[SAQ] When aerobic (nitrifying) bacteria first oxidize NH4(1+), the result is:<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NO2(1-)
 [END]
 -------------------------------------------
-[SAQ] When aerobic (nitrifying) bacteria oxidize NO2(1-), the result is:\n*(Answer Format: H2O, Na(1+))*
+[SAQ] When aerobic (nitrifying) bacteria oxidize NO2(1-), the result is:<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NO3(1-)
 [END]
 -------------------------------------------
@@ -273,31 +273,31 @@
 [A] Anaerobic
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **atmospheric nitrogen**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **atmospheric nitrogen**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] N2
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **nitrate**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **nitrate**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NO3(1-)
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **nitrite**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **nitrite**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NO2(1-)
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **ammonia**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **ammonia**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NH3
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **ammonium**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **ammonium**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NH4(1+)
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **nitrogen dioxide**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **nitrogen dioxide**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NO2
 [END]
 -------------------------------------------
-[SAQ] Write the chemical formula of **nitrous oxide**.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the chemical formula of **nitrous oxide**.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] N2O
 [END]
 -------------------------------------------
@@ -311,11 +311,11 @@
 [WA] Nitrate
 [END]
 -------------------------------------------
-[SAQ] Acid Rain occurs when water, oxygen, and **this nitrogen-containing gas** combine in the atmosphere.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Acid Rain occurs when water, oxygen, and **this nitrogen-containing gas** combine in the atmosphere.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] NO2
 [END]
 -------------------------------------------
-[SAQ] Write the formula of this nitrogen-containing greenhouse gas that depletes the ozone layer.\n*(Answer Format: H2O, Na(1+))*
+[SAQ] Write the formula of this nitrogen-containing greenhouse gas that depletes the ozone layer.<br>*(Answer Format: H2O, Na(1+))*
 [EXA] N2O
 [END]
 -------------------------------------------

@@ -135,6 +135,8 @@ var ENTER_DOWN = false;
 const DOUBLE_TAP_THRESHOLD = 300;
 
 function enter_press_listener(event) {
+    if (CURRENT_SESSION == undefined) return;
+
     if (CURRENT_SESSION.settings.skipshortcut) {
         if (event.key == "Enter" && !ENTER_DOWN) {
             ENTER_DOWN = true;
@@ -217,7 +219,18 @@ class SAQQuestion {
         else SCQ_QTYPE.innerText = `Short Answer`;
 
         SCQ_QDESC.innerHTML = this.q;
-        SAQ_INPUT_BOX.focus();
+
+        // Latex
+        if (settings.renderlatex) {
+            renderMathInElement(SCQ_QDESC, {
+                delimiters: [
+                    {left: '$', right: '$', display: false},
+                ],
+                throwOnError: false
+            });
+        }
+
+        SAQ_INPUT_BOX.focus();        
     }
 
     rerender(settings) {
@@ -278,11 +291,11 @@ class SAQQuestion {
 
                     if (this.status != QUESTION_STATUS.INCORRECT) {
                         this.status = QUESTION_STATUS.CORRECT;
-                        if (settings.confetti) toss_confetti_at_element(SAQ_INPUT_BTN, 10);
+                        if (settings.confetti) toss_confetti_at_element(SAQ_INPUT_BTN);
                     }
                 } else {
                     SAQ_INPUT_BOX.classList.add("incorrect");
-                    SAQ_INPUT_BTN.removeAttribute("disabled");
+                    //SAQ_INPUT_BTN.removeAttribute("disabled");
                     this.processingSubmit = false;
 
                     SAQ_FEEDBACK_SVG.setAttribute("href", "#svg_x");
@@ -334,7 +347,7 @@ class MCQOption {
         MCQ_OPTIONS_DIV.appendChild(this.button);
     }
 
-    render(disabled, button_class) {
+    render(settings, disabled, button_class) {
         // Style the button (by modifying classlist & disabled attribute.)
         // Depends on the state vars (see constructor).
         if (disabled) {
@@ -344,6 +357,16 @@ class MCQOption {
         }
 
         this.button.className = "scq_mcq " + button_class;
+
+        // Latex
+        if (settings.renderlatex) {
+            renderMathInElement(this.answerText, {
+                delimiters: [
+                    {left: '$', right: '$', display: false},
+                ],
+                throwOnError: false
+            });
+        }
     }
 }
 
@@ -388,7 +411,7 @@ class MCQQuestion {
 
         for (let i in options) {
             this.buttons.push(new MCQOption(i, alphabet[i], options[i], i == this.correctIdx));
-            this.buttons[i].render(false, "");
+            this.buttons[i].render(settings, false, "");
             this.buttons[i].add_to_div();
             add_letter_keybind(alphabet[i].toLowerCase());
         }
@@ -399,6 +422,16 @@ class MCQQuestion {
         else SCQ_QTYPE.innerText = `Multiple Choice`;
         
         SCQ_QDESC.innerHTML = this.q;
+
+        // Latex
+        if (settings.renderlatex) {
+            renderMathInElement(SCQ_QDESC, {
+                delimiters: [
+                    {left: '$', right: '$', display: false},
+                ],
+                throwOnError: false
+            });
+        }
     }
 
     rerender(settings) {
@@ -415,7 +448,7 @@ class MCQQuestion {
             MCQ_INPUT_BTN.setAttribute("disabled", "");
 
             for (let idx in this.buttons) {
-                this.buttons[idx].render(true, idx == this.correctIdx ? "greendashed" : "")
+                this.buttons[idx].render(settings, true, idx == this.correctIdx ? "greendashed" : "")
                 remove_letter_keybind("abcdefghijklmnopqrstuvwxyz"[idx]);
             }
 
@@ -434,13 +467,14 @@ class MCQQuestion {
         } else if (event[0] == "SUBMIT") {
             if (this.selected != undefined) {
                 this.processingSubmit = true;
-                SCQ_SKIP_BTN.setAttribute("disabled", "");
                 MCQ_INPUT_BTN.setAttribute("disabled", "");
                 let isCorrect = (this.selected == this.correctIdx);
 
                 if (isCorrect) {
+                    SCQ_SKIP_BTN.setAttribute("disabled", "");
+
                     for (let idx in this.buttons) {
-                        this.buttons[idx].render(true, idx == this.correctIdx ? "green" : "")
+                        this.buttons[idx].render(settings, true, idx == this.correctIdx ? "green" : "")
                         remove_letter_keybind("abcdefghijklmnopqrstuvwxyz"[idx]);
                     }
                     MCQ_INPUT_BTN.onclick = function() { process_input(["NEXT", ""]) }
@@ -456,12 +490,11 @@ class MCQQuestion {
                     
                     if (this.status != QUESTION_STATUS.INCORRECT) {
                         this.status = QUESTION_STATUS.CORRECT;
-                        if (settings.confetti) toss_confetti_at_element(MCQ_INPUT_BTN, 10);
+                        if (settings.confetti) toss_confetti_at_element(MCQ_INPUT_BTN);
                     }
                 } else {
-                    this.buttons[this.selected].render(false, "red");
-                    this.buttons[this.selected].button.focus();
-                    MCQ_INPUT_BTN.removeAttribute("disabled");
+                    this.buttons[this.selected].render(settings, false, "red");
+                    //MCQ_INPUT_BTN.removeAttribute("disabled");
                     this.processingSubmit = false;
 
                     MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_x");
@@ -477,15 +510,15 @@ class MCQQuestion {
             if (newSelected == this.selected) {
                 MCQ_INPUT_BTN.setAttribute("disabled", "");
                 this.buttons[this.selected].selected = false;
-                this.buttons[this.selected].render(false, "");
+                this.buttons[this.selected].render(settings, false, "");
                 this.selected = undefined;
             } else {
                 this.buttons[newSelected].selected = true;
-                this.buttons[newSelected].render(false, "blue")
+                this.buttons[newSelected].render(settings, false, "blue")
                 
                 if (this.selected != undefined) {
                     this.buttons[this.selected].selected = false;
-                    this.buttons[this.selected].render(false, "");
+                    this.buttons[this.selected].render(settings, false, "");
                 }
 
                 this.selected = newSelected;
@@ -636,6 +669,7 @@ var DEFAULT_SETTINGS = {
     "redoskipped": true,
     "redofailed": false,
     "randomdoover": false,
+    "renderlatex": true,
     "confetti": true
 }
 

@@ -36,9 +36,9 @@
 [A] Mississippi River Valley
 [END]
 -------------------------------------------
-[SAQ] Which region in North America was home to the Iriqouis?
-[A] Northwest
-[A] NW
+[SAQ] Which region in North America was home to the Iroquois?
+[A] Northeast
+[A] NE
 [END]
 -------------------------------------------
 [T] 1.3 — European Exploration in the Americas

@@ -1,0 +1,48 @@
+[PRESET] (Unit 3) Chapter 11 - Civil Rights - UNFINISHED
+-------------------------------------------
+[T] NSL 3.10 - Social Movements and Equal Protection
+-------------------------------------------
+[SAQ] _____ _____ are protections from discrimination based on things like race, color, and/or sex.
+[A] Civil Rights
+[END]
+-------------------------------------------
+[SAQ] _____ _____ are guaranteed to all citizens under the due process and equal protection clauses in the Constitution.
+[A] Civil Rights
+[END]
+-------------------------------------------
+[SAQ] Civil Rights are guaranteed to all citizens under the due process and _______ ___________ clauses in the Constitution.
+[A] Equal Protection
+[END]
+-------------------------------------------
+[SAQ] Amendment #__'s equal protection clause spurred citizens to take action on African-American civil rights.
+[EXA] XIV
+[EXA] 14
+[A] Fourteen
+[END]
+-------------------------------------------
+[SAQ] The _______ is one of the most important organizations for promoting equal rights for African Americans.
+[A] NAACP
+[A] National Association for the Advancement of Colored People
+[END]
+-------------------------------------------
+[MCQ] The NAACP has regularly argued cases in the Supreme Court.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] The NAACP only argues in Supreme Court cases concerning laws discriminating against African-American people.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The NAACP's first contribution to school integration was the *Brown v. Board* decision.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Who wrote "Letter from a Birmingham Jail"?
+[A] MLK
+[A] MLK Jr
+[A] Martin Luther King Jr
+[END]
+-------------------------------------------

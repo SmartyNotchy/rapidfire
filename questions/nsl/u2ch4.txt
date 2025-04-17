@@ -35,62 +35,62 @@
 [WA] State Legislatures
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Originates revenue bills*
+[MCQ] Which house of Congress best fits this description?<br>*Originates revenue bills*
 [CA] House of Representatives
 [WA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Initiates impeachment*
+[MCQ] Which house of Congress best fits this description?<br>*Initiates impeachment*
 [CA] House of Representatives
 [WA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Focus on revenue & spending*
+[MCQ] Which house of Congress best fits this description?<br>*Focus on revenue & spending*
 [CA] House of Representatives
 [WA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Provides "advice and consent"*
+[MCQ] Which house of Congress best fits this description?<br>*Provides "advice and consent"*
 [WA] House of Representatives
 [CA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Conducts impeachment trials*
+[MCQ] Which house of Congress best fits this description?<br>*Conducts impeachment trials*
 [WA] House of Representatives
 [CA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Deals with international & foreign policy*
+[MCQ] Which house of Congress best fits this description?<br>*Deals with international & foreign policy*
 [WA] House of Representatives
 [CA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*435 members (as of 2024)*
+[MCQ] Which house of Congress best fits this description?<br>*435 members (as of 2024)*
 [CA] House of Representatives
 [WA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*More frequent elections*
+[MCQ] Which house of Congress best fits this description?<br>*More frequent elections*
 [CA] House of Representatives
 [WA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Major focus on satisfying constituents*
+[MCQ] Which house of Congress best fits this description?<br>*Major focus on satisfying constituents*
 [CA] House of Representatives
 [WA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*100 members (as of 2024)*
+[MCQ] Which house of Congress best fits this description?<br>*100 members (as of 2024)*
 [WA] House of Representatives
 [CA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Less frequent elections*
+[MCQ] Which house of Congress best fits this description?<br>*Less frequent elections*
 [WA] House of Representatives
 [CA] Senate
 [END]
 -------------------------------------------
-[MCQ] Which house of Congress best fits this description?\n*Less affected by popular opinion*
+[MCQ] Which house of Congress best fits this description?<br>*Less affected by popular opinion*
 [WA] House of Representatives
 [CA] Senate
 [END]
@@ -204,13 +204,13 @@
 [WA] None of the listed options
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the House have the following role?\n*Recognizing members for floor speeches & comments*
+[SAQ] Which leadership position(s) in the House have the following role?<br>*Recognizing members for floor speeches & comments*
 [A] Speaker
 [A] House Speaker
 [A] Speaker of the House
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the House have the following role?\n*Organizing members for conference committees*
+[SAQ] Which leadership position(s) in the House have the following role?<br>*Organizing members for conference committees*
 [A] Speaker
 [A] House Speaker
 [A] Speaker of the House
@@ -231,7 +231,7 @@
 [WA] Discipline party members
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the House have the following role?\n*Direct debate along & speak for their respective parties*
+[SAQ] Which leadership position(s) in the House have the following role?<br>*Direct debate along & speak for their respective parties*
 [A] Leaders
 [A] Majority Leader
 [A] Minority Leader
@@ -249,14 +249,14 @@
 [CA] Discipline party members
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the House have the following role?\n*Keep rough tallies of votes along party members*
+[SAQ] Which leadership position(s) in the House have the following role?<br>*Keep rough tallies of votes along party members*
 [A] Whips
 [A] Majority Whip
 [A] Minority Whip
 [A] Majority & Minority Whips
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the House have the following role?\n*Maintains discipline among party members*
+[SAQ] Which leadership position(s) in the House have the following role?<br>*Maintains discipline among party members*
 [A] Whips
 [A] Majority Whip
 [A] Minority Whip
@@ -278,7 +278,7 @@
 [WA] Tally party member voting intentions & maintain discipline
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the Senate have the following role?\n*Cast the final vote in the event of a tie*
+[SAQ] Which leadership position(s) in the Senate have the following role?<br>*Cast the final vote in the event of a tie*
 [A] President
 [A] President of the Senate
 [END]
@@ -296,7 +296,7 @@
 [WA] Tally party member voting intentions & maintain discipline
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the Senate have the following role?\n*Run Congress in the absence of the President*
+[SAQ] Which leadership position(s) in the Senate have the following role?<br>*Run Congress in the absence of the President*
 [A] pro tem
 [A] pro tempore
 [A] President pro tempore
@@ -324,12 +324,12 @@
 [WA] Tally party member voting intentions & maintain discipline
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the Senate have the following role?\n*Determine which bills reach the floor for debate*
+[SAQ] Which leadership position(s) in the Senate have the following role?<br>*Determine which bills reach the floor for debate*
 [A] Majority Leader
 [A] Senate Majority Leader
 [END]
 -------------------------------------------
-[SAQ] Which leadership position(s) in the Senate have the following role?\n*Guide party caucus on issues & party strategy*
+[SAQ] Which leadership position(s) in the Senate have the following role?<br>*Guide party caucus on issues & party strategy*
 [A] Majority Leader
 [A] Senate Majority Leader
 [END]
@@ -374,7 +374,7 @@
 [CA] False
 [END]
 -------------------------------------------
-[SAQ] The Ways & Means Committee and the Rules Committee are both examples of _______ committees.\n*(Hint: Not about House/Senate-specific)*
+[SAQ] The Ways & Means Committee and the Rules Committee are both examples of _______ committees.<br>*(Hint: Not about House/Senate-specific)*
 [A] Standing
 [END]
 -------------------------------------------
@@ -424,7 +424,7 @@
 [WA] Neither House
 [END]
 -------------------------------------------
-[MCQ] Currently (as of 2024), filibustering can be used by:\n*(Choose the most accurate answer option.)*
+[MCQ] Currently (as of 2024), filibustering can be used by:<br>*(Choose the most accurate answer option.)*
 [CA] All members of Senate
 [WA] All members of the House of Representatives
 [WA] All members of both Houses

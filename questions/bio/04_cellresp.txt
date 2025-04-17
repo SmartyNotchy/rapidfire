@@ -242,7 +242,7 @@
 [WA] To bond with pyruvate to from pyruvate-CoA
 [END]
 ------------------------------------------- 
-[SAQ] The link reaction occurs __ times per glucose molecule.\n*(Answer with #)*
+[SAQ] The link reaction occurs __ times per glucose molecule.<br>*(Answer with #)*
 [EXA] 2
 [A] Two
 [END]

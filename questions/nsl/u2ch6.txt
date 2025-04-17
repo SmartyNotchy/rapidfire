@@ -105,7 +105,7 @@
 [WA] A powerful judicial branch would unite the country and ensure smooth natural operation
 [END]
 -------------------------------------------
-[MCQ] In *Federalist No. 78*, which of the following was a reason the Federalists argued for life terms for federal judges?\n\nI: To protect it from the legislative\nII: To protect it from the executive\nIII: To allow judges to make unpopular decisions
+[MCQ] In *Federalist No. 78*, which of the following was a reason the Federalists argued for life terms for federal judges?<br><br>I: To protect it from the legislative<br>II: To protect it from the executive<br>III: To allow judges to make unpopular decisions
 [CA] I, II, and III
 [WA] I only
 [WA] III only
@@ -433,7 +433,7 @@
 [A] Eleven
 [END]
 -------------------------------------------
-[MCQ] Which of the following amendments were passed in response to unpopular Supreme Court decisions?\n\nI: 14th Amendment\nII: 16th Amendment\nIII: 19th Amendment
+[MCQ] Which of the following amendments were passed in response to unpopular Supreme Court decisions?<br><br>I: 14th Amendment<br>II: 16th Amendment<br>III: 19th Amendment
 [CA] I & II only
 [WA] I only
 [WA] II only

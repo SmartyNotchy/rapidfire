@@ -1,0 +1,197 @@
+[PRESET] (Unit 4) Chapter 13 - Public Opinion
+-------------------------------------------
+[T] NSL 4.5 - Measuring Public Opinion
+-------------------------------------------
+[SAQ] Done scientifically, _________ is the most reliable way to assess public opinion.
+[A] Polling
+[END]
+-------------------------------------------
+[SAQ] Pollsters use different kinds of ___________ _________ _____ to gauge attitudes on issues or support for candidates in an election.
+[A] Public Opinion Polls
+[END]
+-------------------------------------------
+[SAQ] _________ polls are often the first type of poll used by a political campaign, often before the candidate has declared their intentions.
+[A] Benchmark
+[END]
+-------------------------------------------
+[SAQ] _________ polls are used to measure support for a candidate and to gather information about the issues people care about.
+[A] Benchmark
+[END]
+-------------------------------------------
+[SAQ] _________ polls are asked to measure how prospective voters feel about an issue or candidate.
+[A] Tracking
+[END]
+-------------------------------------------
+[SAQ] _________ polls are used by candidates to track voter positions on specific issues, shaping decisions particularly in the final days of an election.
+[A] Tracking
+[END]
+-------------------------------------------
+[SAQ] __________ and ____ polls are conducted outside polling places on election date to publicly predict election outcomes after polls close.<br><br>*(Answer Format: Apple,Banana)*
+[A] Entrance,Exit
+[A] Exit,Entrance
+[END]
+-------------------------------------------
+[MCQ] Entrance and exit polls are especially crucial in shaping candidate policy positions.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] _________ _______ are gauged by pollsters to see whether respondents support the president's job performance.
+[A] Approval Ratings
+[END]
+-------------------------------------------
+[SAQ] Approval ratings are typically highest during the President's "__________ _____".
+[A] Honeymoon Period
+[END]
+-------------------------------------------
+[MCQ] When are approval ratings among a President typically the highest?
+[CA] During their Starting Months
+[WA] In the Middle of their Term
+[WA] During their Final Months
+[WA] After Passing Legislation
+[END]
+-------------------------------------------
+[MCQ] Which of the following events does NOT typically cause high presidential approval ratings?
+[CA] During Midterm Elections
+[WA] During Economic Prosperity
+[WA] During International Crises
+[WA] During the Honeymoon Period
+[END]
+-------------------------------------------
+[MCQ] Approval ratings do not change dramatically; rather, they slowly increase or taper off.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] ______ ______ are small groups of 10-40 citizens who are gathered to hold conversations about specific issues or candidates.
+[A] Focus Groups
+[END]
+-------------------------------------------
+[MCQ] The phrasing of a question can affect how citizens respond to polls, even if the overall meaning of the question remains the same.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] The order of questions in a poll can affect how citizens respond to them.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] "________" a question refers to posing it in a way that emphasizes a certain perspective: i.e. "Should abortion be legal under all circumstances?" vs. "Should abortion be legal in cases of rape/incest?"
+[A] Framing
+[END]
+-------------------------------------------
+[SAQ] Proper _________ ___________ are used by pollsters to obtain a random and fair representation of the population.
+[A] Sampling Techniques
+[END]
+-------------------------------------------
+[SAQ] Pollsters take _________ _________, groups of people meant to represent a large group in question (the universe).
+[A] Representative Samples
+[END]
+-------------------------------------------
+[SAQ] When pollsters take a representative sample, they mean to represent the large group in question, called the _________.
+[A] Universe
+[END]
+-------------------------------------------
+[MCQ] A nationally representative sample often has about ______ respondents.
+[CA] 1,500
+[WA] 500
+[WA] 10,000
+[WA] 1,000,000
+[END]
+-------------------------------------------
+[SAQ] Pollsters must obtain a ______ ______, where every single member of the universe must have an equal chance of selection.
+[A] Random Sample
+[END]
+-------------------------------------------
+[SAQ] To make telephone polling more reliable, pollsters use ______________ ______, which uses a computer to randomly select numbers in an area.
+[A] Random-Digit Dialing
+[END]
+-------------------------------------------
+[MCQ] Why might a poll that only contacts people with landlines be misrepresentative of the population?
+[CA] Landline use is dropping, and many young people only use cell phones
+[WA] The majority of left-leaning voters use unlisted landline numbers
+[WA] Only the elite upper class (which is mostly right-leaning) uses landlines
+[WA] It is impossible to randomly select landline numbers, which could lead to pollster bias
+[END]
+-------------------------------------------
+[SAQ] ________ is the manipulation of a sample to compensate for disproportionate representation of some groups.
+[A] Weighting
+[A] Stratification
+[END]
+-------------------------------------------
+[SAQ] Every poll has a _____________________, the difference between poll results.
+[A] Sampling Error
+[A] Margin of Error
+[END]
+-------------------------------------------
+[MCQ] As the sample gets larger, the margin of error _______.
+[CA] Decreases
+[WA] Increases
+[END]
+-------------------------------------------
+[MCQ] A margin of error of plus-or-minus __ percent or less is usually satisfactory.
+[CA] 4
+[WA] 10
+[WA] 1
+[WA] 0.4
+[END]
+-------------------------------------------
+[MCQ] Many people simply do not have string opinions on certain issues, which may not be accurately reflected in poll results.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Most people who are uninformed on an issue decline to answer polls or questions on the topic.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The method by which an interviewer contacts a respondent can impact the results of a poll.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] ______ ________ is a controversial polling method that attempt to influence people's views on certain topics under the guise of impartial polling.
+[A] Push Polling
+[END]
+-------------------------------------------
+[MCQ] Internet polling is generally a modern solution to the problem of obtaining a random sample.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[T] NSL 4.6 - Evaluating Public Opinion Data
+-------------------------------------------
+[MCQ] Which of the following is the best description of "horse race" news coverage?
+[CA] Focusing on which candidate is currently in the lead in each state
+[WA] Broadcasting a campaign rally of one of the candidates
+[WA] Reviewing the points made by each candidate in a presidential debate
+[WA] Analyzing the previous economy under the incumbent candidate
+[END]
+-------------------------------------------
+[SAQ] The __________ ________ is one way national polling influences elections, by shifting public support to the candidate in the lead.
+[A] Bandwagon Effect
+[END]
+-------------------------------------------
+[SAQ] Due to the __________ _______, most media outlets do not report findings from an exit poll until polls have closed in a state.
+[A] Bandwagon Effect
+[END]
+-------------------------------------------
+[MCQ] Public opinion polls are more likely to influence members from which house of Congress?
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[SAQ] ________ ______________ _____ is the tendency for respondents to tell pollsters what they think the pollsters want to hear.
+[A] Social Desirability Bias
+[END]
+-------------------------------------------
+[SAQ] The _______ ______ is an example of social desirability bias, where African American candidates tend to underperform in elections compared to poll predictions.
+[A] Bradley Effect
+[END]
+-------------------------------------------
+[SAQ] ______________ _____ refers to the reluctance of undecided voters to participate in polls.
+[A] Non-Response Bias
+[END]
+-------------------------------------------
