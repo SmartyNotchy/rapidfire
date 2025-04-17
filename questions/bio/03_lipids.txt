@@ -85,7 +85,7 @@
 [WA] No direct C-C bonds
 [END]
 -------------------------------------------
-[SAQ] In a saturated fatty acid, each carbon is saturated (bonded) to ___ hydrogens.\n*(Answer with #)*
+[SAQ] In a saturated fatty acid, each carbon is saturated (bonded) to ___ hydrogens.<br>*(Answer with #)*
 [EXA] 2
 [A] Two
 [END]
@@ -241,12 +241,12 @@
 [A] Fatty Acid
 [END]
 -------------------------------------------
-[SAQ] The fatty acids in triglycerides are combined through ___ condensation reactions.\n*(Answer with #)*
+[SAQ] The fatty acids in triglycerides are combined through ___ condensation reactions.<br>*(Answer with #)*
 [EXA] 3
 [A] Three
 [END]
 -------------------------------------------
-[SAQ] The fatty acids in triglyecerides are combined through three _______________ reactions.
+[SAQ] The fatty acids in triglycerides are combined through three _______________ reactions.
 [A] Condensation
 [END]
 -------------------------------------------
@@ -268,7 +268,7 @@
 [A] Phospholipids
 [END]
 -------------------------------------------
-[SAQ] Phospholipids are lipids made of a glycerol backbone, ___ fatty acid chains, and a phosphate group.\n*(Answer with #)*
+[SAQ] Phospholipids are lipids made of a glycerol backbone, ___ fatty acid chains, and a phosphate group.<br>*(Answer with #)*
 [EXA] 2
 [A] Two
 [END]
@@ -285,7 +285,7 @@
 [A] Amphipathic
 [END]
 -------------------------------------------
-[MCQ] Which part of phosphilipids are hydrophilic?
+[MCQ] Which part of phospholipids are hydrophilic?
 [CA] Phosphate Head
 [WA] Fatty Acid Tails
 [END]
@@ -295,7 +295,7 @@
 [WA] Hydrophobic
 [END]
 -------------------------------------------
-[MCQ] Which part of phosphilipids are hydrophobic?
+[MCQ] Which part of phospholipids are hydrophobic?
 [WA] Phosphate Head
 [CA] Fatty Acid Tails
 [END]

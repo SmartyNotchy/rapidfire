@@ -54,7 +54,7 @@ function format_markdown_text(text) {
     return text
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')   // Bold: **text**
         .replace(/\*(.*?)\*/g, '<em>$1</em>')               // Italic: *text*
-        .replace(/\\n/g, '<br>');                            // Newline: \n
+        //.replace(/\\n/g, '<br>');                            // Newline: \n
 }
 
 function get_qset_lines(filePath) {

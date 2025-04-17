@@ -349,7 +349,7 @@
 [A] Martin Luther King Jr.
 [END]
 -------------------------------------------
-[SAQ] The "sit-in" civil rights movemenent originated in _______.
+[SAQ] The "sit-in" civil rights movement originated in _______.
 [A] Greensboro
 [END]
 -------------------------------------------
@@ -363,7 +363,7 @@
 [A] Third World
 [END]
 -------------------------------------------
-[SAQ] Eisenhower's foreign policy with new colonise-turned-countries was one of _____ action.
+[SAQ] Eisenhower's foreign policy with new colonies-turned-countries was one of _____ action.
 [A] Covert
 [A] Undercover
 [END]
@@ -394,7 +394,7 @@
 [A] Petroleum Exporting Countries
 [END]
 -------------------------------------------
-[SAQ] This war involving Israel in the Middle East led to massive oil embargos & shortages.
+[SAQ] This war involving Israel in the Middle East led to massive oil embargoes & shortages.
 [A] Yom Kippur
 [A] Yom Kippur War
 [END]

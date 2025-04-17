@@ -75,7 +75,7 @@
 [END]
 -------------------------------------------
 [SAQ] On the frontier, small families moved onto parcels of lands called:
-[A] Homestands
+[A] Homesteads
 [END]
 -------------------------------------------
 [SAQ] During the 1800s, the US sent Matthew C. Perry to establish trading with:
@@ -281,7 +281,7 @@
 [A] Missouri Compromise Line
 [END]
 -------------------------------------------
-[SAQ] Due to popular soverignty, fighting broke out in ??? in the 1850s; this became known as "______".
+[SAQ] Due to popular sovereignty, fighting broke out in (REDACTED) in the 1850s; this became known as "______".
 [A] Bleeding Kansas
 [END]
 -------------------------------------------
@@ -434,7 +434,7 @@
 [END]
 -------------------------------------------
 [SAQ] The Confederate Plan of "King Cotton" was (unsuccessfully) used to obtain _____ support.
-[A] Eurropean
+[A] European
 [END]
 -------------------------------------------
 [T] 5.9 - Government Policies During the Civil War
@@ -602,7 +602,7 @@
 [A] Rutherford B. Hayes
 [END]
 -------------------------------------------
-[SAQ] In return for winning the election in the Compromise of 1877, Hayes agreed to support (black codes/withdrawal of troops/planation rebu0ilding/reform movements) in the South.
+[SAQ] In return for winning the election in the Compromise of 1877, Hayes agreed to support (black codes/withdrawal of troops/plantation rebuilding/reform movements) in the South.
 [A] Withdrawal of Troops
 [END]
 -------------------------------------------

@@ -6,27 +6,27 @@
 [A] Conservative
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Prioritize law and order at the expense of some personal liberties*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Prioritize law and order at the expense of some personal liberties*
 [CA] Conservatives
 [WA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Belief in Traditions & Institutions*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Belief in Traditions & Institutions*
 [CA] Conservatives
 [WA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Small Government with Fewer Services*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Small Government with Fewer Services*
 [CA] Conservatives
 [WA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Harsh Punishments for Lawbreakers*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Harsh Punishments for Lawbreakers*
 [CA] Conservatives
 [WA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*High Thresholds for Welfare Qualification*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*High Thresholds for Welfare Qualification*
 [CA] Conservatives
 [WA] Liberals
 [END]
@@ -35,27 +35,27 @@
 [A] Liberal
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*More Likely to Experiment with Policy*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*More Likely to Experiment with Policy*
 [WA] Conservatives
 [CA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Protecting the Rights of the Accused*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Protecting the Rights of the Accused*
 [WA] Conservatives
 [CA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Higher Taxes for More Government Services*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Higher Taxes for More Government Services*
 [WA] Conservatives
 [CA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*Large Government with More Services*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*Large Government with More Services*
 [WA] Conservatives
 [CA] Liberals
 [END]
 -------------------------------------------
-[MCQ] Choose the ideology that matches the following statement:\n\n*More Receptive to Change*
+[MCQ] Choose the ideology that matches the following statement:<br><br>*More Receptive to Change*
 [WA] Conservatives
 [CA] Liberals
 [END]

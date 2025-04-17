@@ -316,7 +316,7 @@
 [A] Pinckney Treaty
 [END]
 -------------------------------------------
-[SAQ] In the aftermath of this battle, Indians surrended all land in the Ohio River Valley to the US.
+[SAQ] In the aftermath of this battle, Indians surrendered all land in the Ohio River Valley to the US.
 [A] Fallen Timbers
 [A] Battle of Fallen Timbers
 [END]

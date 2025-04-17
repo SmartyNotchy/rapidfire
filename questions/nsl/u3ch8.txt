@@ -64,7 +64,7 @@
 [WA] The Monroe Doctrine
 [END]
 -------------------------------------------
-[SAQ] According to the First Amendment, "Congress shall make no law respecting a(n) ________ of religion or prohibiting the ____ _______ thereof."\n\n*(Answer Format: Apple,Banana)*
+[SAQ] According to the First Amendment, "Congress shall make no law respecting a(n) ________ of religion or prohibiting the ____ _______ thereof."<br><br>*(Answer Format: Apple,Banana)*
 [A] Establishment,Free Exercise
 [END]
 -------------------------------------------
@@ -274,7 +274,7 @@
 [A] Alternatives
 [END]
 -------------------------------------------
-[SAQ] _________ ___________ refers to physical acctions that express or advocate for a certain viewpoint.
+[SAQ] _________ ___________ refers to physical actions that express or advocate for a certain viewpoint.
 [A] Symbolic Speech
 [END]
 -------------------------------------------
@@ -418,7 +418,7 @@
 [WA] False
 [END]
 -------------------------------------------
-[SAQ] A charge of _____ refers to false statements in print that demages a person's reputation.
+[SAQ] A charge of _____ refers to false statements in print that damages a person's reputation.
 [A] Libel
 [END]
 -------------------------------------------
@@ -497,7 +497,7 @@
 [WA] No
 [END]
 -------------------------------------------
-[SAQ] This court case, which served as a background for *Times v US (1971)*, ruled that a state law preventing radical propoganda in the press violated the First Amendment.
+[SAQ] This court case, which served as a background for *Times v US (1971)*, ruled that a state law preventing radical propaganda in the press violated the First Amendment.
 [A] Near v Minnesota
 [END]
 -------------------------------------------

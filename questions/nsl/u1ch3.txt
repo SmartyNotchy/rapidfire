@@ -59,7 +59,7 @@
 [A] Enumerated Powers
 [END]
 -------------------------------------------
-[SAQ] States have ______ _____ - powers on health, safety, and morals.\n(Hint: Examples include speed limits, seat belt policies, & the age of consent)
+[SAQ] States have ______ _____ - powers on health, safety, and morals.<br>(Hint: Examples include speed limits, seat belt policies, & the age of consent)
 [A] Police Powers
 [END]
 -------------------------------------------
@@ -88,7 +88,7 @@
 [A] Strings
 [END]
 -------------------------------------------
-[SAQ] The Morill Land-Grant Act and the Civil Rights Act of 1964 are both examples where ______ were used to enact policy.\n(Hint: In both cases, the topics were outside of national jurisdiction and reserved to the states)
+[SAQ] The Morill Land-Grant Act and the Civil Rights Act of 1964 are both examples where ______ were used to enact policy.<br>(Hint: In both cases, the topics were outside of national jurisdiction and reserved to the states)
 [A] Grants
 [A] Categorical Grants
 [END]
@@ -221,7 +221,7 @@
 [A] Tenth Amendment
 [END]
 -------------------------------------------
-[SAQ] Some states start to legalize medical marijuana by using ballot initiatives. This is an example of:\n(Hint: A type of representative democracy)
+[SAQ] Some states start to legalize medical marijuana by using ballot initiatives. This is an example of:<br>(Hint: A type of representative democracy)
 [A] Participatory
 [A] Participatory Democracy
 [END]

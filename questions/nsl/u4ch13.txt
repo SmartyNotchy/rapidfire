@@ -26,7 +26,7 @@
 [A] Tracking
 [END]
 -------------------------------------------
-[SAQ] __________ and ____ polls are conducted outside polling places on election date to publicly predict election outcomes after polls close.\n\n*(Answer Format: Apple,Banana)*
+[SAQ] __________ and ____ polls are conducted outside polling places on election date to publicly predict election outcomes after polls close.<br><br>*(Answer Format: Apple,Banana)*
 [A] Entrance,Exit
 [A] Exit,Entrance
 [END]
@@ -123,6 +123,7 @@
 [SAQ] Every poll has a _____________________, the difference between poll results.
 [A] Sampling Error
 [A] Margin of Error
+[END]
 -------------------------------------------
 [MCQ] As the sample gets larger, the margin of error _______.
 [CA] Decreases

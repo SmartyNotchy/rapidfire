@@ -186,7 +186,7 @@
 [A] Pragmatism
 [END]
 -------------------------------------------
-[SAQ] Writers who wrote about negative storiers & scandals in factories & big business were known as "________".
+[SAQ] Writers who wrote about negative stories & scandals in factories & big business were known as "________".
 [A] Muckrakers
 [END]
 -------------------------------------------
@@ -610,7 +610,7 @@
 [A] Demagogues
 [END]
 -------------------------------------------
-[SAQ] FDR, frusted with the Supreme Court, attempted to do this, bringing harsh criticism.
+[SAQ] FDR, frustrated with the Supreme Court, attempted to do this, bringing harsh criticism.
 [A] Pack the Courts
 [A] Packing Courts
 [A] Court Packing

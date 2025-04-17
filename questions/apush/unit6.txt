@@ -33,7 +33,7 @@
 [A] Lower
 [END]
 -------------------------------------------
-[SAQ] Natural disasters, conflicts with natives, and inequal land quality were issues with the ________ Act in the 1860s.
+[SAQ] Natural disasters, conflicts with natives, and unequal land quality were issues with the ________ Act in the 1860s.
 [A] Homestead
 [END]
 -------------------------------------------
@@ -288,7 +288,7 @@
 [END]
 -------------------------------------------
 [SAQ] Which of the following was NOT caused by industrialization? (Increased Immigration/More Leisure Time/Smaller gap between Rich & Poor/Expansion of Public & Higher Education)
-[A] Smalelr gap between Rich & Poor
+[A] Smaller gap between Rich & Poor
 [END]
 -------------------------------------------
 [SAQ] The period roughly around the late 1800s was called the _____ ___ due to its superficially-luxurious nature.
@@ -409,7 +409,7 @@
 [A] Social Darwinism
 [END]
 -------------------------------------------
-[SAQ] Immigrants were often used as ________ by managament.
+[SAQ] Immigrants were often used as ________ by management.
 [A] Strikebreakers
 [END]
 -------------------------------------------

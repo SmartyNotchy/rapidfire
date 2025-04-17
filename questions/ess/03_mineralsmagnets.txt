@@ -1,4 +1,4 @@
-[PRESET] Minerology & Magnetism
+[PRESET] Mineralogy & Magnetism
 -------------------------------------------
 [T] Silicate Basics
 -------------------------------------------
@@ -61,7 +61,7 @@
 [A] Four
 [END]
 -------------------------------------------
-[SAQ] The basic building blocks of silicates are the silicion-oxygen _________ (shape).
+[SAQ] The basic building blocks of silicates are the silicon-oxygen _________ (shape).
 [A] Tetrahedra
 [END]
 -------------------------------------------
@@ -150,9 +150,9 @@
 [WA] False
 [END]
 -------------------------------------------
-[MCQ] Pure quartz is usually colorless or white. Which of the following explains the existance of different colors of quartz, like rosy quartz or smoky quartz?
+[MCQ] Pure quartz is usually colorless or white. Which of the following explains the existence of different colors of quartz, like rosy quartz or smoky quartz?
 [CA] Atoms like iron substitute for the silicon in the tetrahedra, causing light diffraction
-[WA] Different isotopes of silicion in the tetrahedra create different color properties
+[WA] Different isotopes of silicon in the tetrahedra create different color properties
 [WA] The randomized internal structure of quartz causes light diffraction
 [WA] Air bubbles trapped inside quartz during crystal formation causes light diffraction
 [END]
@@ -209,7 +209,7 @@
 -------------------------------------------
 [T] Mineral Properties
 -------------------------------------------
-[SAQ] ___________ are naturally occuring inorganic solids that have an ordered structure & definite chemical composition.
+[SAQ] ___________ are naturally occurring inorganic solids that have an ordered structure & definite chemical composition.
 [A] Minerals
 [END]
 -------------------------------------------
@@ -226,7 +226,7 @@
 [WA] True
 [END]
 -------------------------------------------
-[SAQ] ________ refers to the apperance of a mineral in reflected light.
+[SAQ] ________ refers to the appearance of a mineral in reflected light.
 [A] Luster
 [END]
 -------------------------------------------
@@ -345,7 +345,7 @@
 [END]
 -------------------------------------------
 [SAQ] This REE is critical in technology (such as in making speakers) due to its powerful magnetic properties.
-[A] Neodynium
+[A] Neodymium
 [END]
 -------------------------------------------
 [SAQ] The main goal of theoretical "Asteroid Mining" is to obtain large amounts of __________________.
@@ -430,7 +430,7 @@
 [WA] South -> North
 [END]
 -------------------------------------------
-[MCQ] When a neodynium bar magnet is snapped in half, what happens to its poles?
+[MCQ] When a neodymium bar magnet is snapped in half, what happens to its poles?
 [CA] Both halves gain a north pole and a south pole
 [WA] The two halves gain a temporary pole along the fractured edge, until the two halves are merged back together again
 [WA] The bar magnet gets split into a "north" half and a "south" half
@@ -444,7 +444,7 @@
 [WA] The north and south poles of the circle magnet both run parallel to the plate and in the same direction
 [END]
 -------------------------------------------
-[MCQ] A magnetic viewing film visually highlights places of high magnetic field strength on a magnet. When a student places this film on top of a particular neodynium bar magnet, not only are both ends of the bar highlighted, but a line down the middle of the bar (parallel to the ends) is highlighted as well. What does this suggest?
+[MCQ] A magnetic viewing film visually highlights places of high magnetic field strength on a magnet. When a student places this film on top of a particular neodymium bar magnet, not only are both ends of the bar highlighted, but a line down the middle of the bar (parallel to the ends) is highlighted as well. What does this suggest?
 [CA] The bar magnet has four poles; it was probably broken into two pieces (each with two poles) and put back together
 [WA] The bar magnet has three poles; a north-south pole, and an east pole in the middle
 [WA] The bar magnet has two poles; the place with the highest magnetic field strength is exactly halfway between the two

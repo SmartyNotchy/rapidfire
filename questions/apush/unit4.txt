@@ -126,11 +126,11 @@
 [A] Tallmadge Amendment
 [END]
 -------------------------------------------
-[SAQ] Henry Clay proposed this to solve thie issue of Missouri's addition to the Union.
+[SAQ] Henry Clay proposed this to solve the issue of Missouri's addition to the Union.
 [A] Missouri Compromise
 [END]
 -------------------------------------------
-[SAQ] This law passed in the 1810s-1830s set a nothern boundary line for slavery.
+[SAQ] This law passed in the 1810s-1830s set a northern boundary line for slavery.
 [A] Missouri Compromise
 [END]
 -------------------------------------------

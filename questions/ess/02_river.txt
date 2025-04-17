@@ -264,7 +264,7 @@
 -------------------------------------------
 [MCQ] Why does deepening a river disrupt its delta system?
 [CA] It disrupts the natural "fanning out" process
-[WA] It artificaly increases the turbidity of the water
+[WA] It artificially increases the turbidity of the water
 [WA] It facilitates the formation of levees and tributaries
 [WA] It creates excessive oxbow lakes, a sign that a river is struggling
 [END]
