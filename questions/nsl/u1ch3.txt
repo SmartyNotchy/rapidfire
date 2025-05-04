@@ -217,7 +217,7 @@
 [T] NSL 1.9 - Federalism in Action
 -------------------------------------------
 [SAQ] Despite Trump withdrawing from the Paris Agreement (an international environmental agreement), many states decided to follow the guidelines anyways. This is an example of:
-[A] Separation of Powers
+[A] Federalism
 [A] Tenth Amendment
 [END]
 -------------------------------------------
