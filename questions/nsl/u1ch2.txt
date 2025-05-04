@@ -243,10 +243,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following is NOT a way for citizens to interact with the judicial branch?
-[CA] Challenging unfair government action
+[WA] Challenging unfair government action
 [WA] Appealing wrongful convictions
 [WA] Questioning the constitutionality of certain policies
-[WA] Initiating impeachment trials for members in Congress
+[CA] Initiating impeachment trials for members in Congress
 [END]
 -------------------------------------------
 [SAQ] (T/F) A Senate Supermajority (2/3) is enough to override a House decision, allowing for a law to pass.
